@@ -1,29 +1,28 @@
 body{
-    background-image: url(img/pexels-element5-1470171.jpg);
     background-color:#dbe7d2;
-    background-size: cover;
-
+    background-image: url(img/pexels-element5-1470171.jpg);
     background-position-x: right;
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-.image{
+.info{
+    background-color: rgba(255, 255, 255, 0.555);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 3%;
     text-align: center;
-    font-family: 'Antonio';
-    height: 494px;
-    background-color: rgba(252, 251, 251, 0.658);
 }
 
-.texto{
-    text-align: center;
-    width: 65%;
+.info .texto{
+ 
     font-family: 'Antonio';
 }
 
-.texto p{
-    margin-top: 5%;
+.info .texto p{
     font-family: 'Clear Sans';
 }
 
-.image img{
-    height: 100%;
+.info .image img{
+    height: 700px;
 }
