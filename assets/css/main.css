@@ -7,8 +7,14 @@ body{
 .image{
     text-align: center;
     width: 65%;
+    font-family: 'Antonio';
+}
+
+.image p{
+    margin-top: 5%;
+    font-family: 'Clear Sans';
 }
 
 .image img{
-    height: 400px;
+    height: 500px;
 }
