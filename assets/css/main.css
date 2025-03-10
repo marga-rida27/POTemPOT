@@ -1,3 +1,14 @@
 body{
+    background-image: url(img/pexels-element5-1470171.jpg);
     background-color:#dbe7d2;
+    background-size: cover;
+}
+
+.image{
+    text-align: center;
+    width: 65%;
+}
+
+.image img{
+    height: 400px;
 }
